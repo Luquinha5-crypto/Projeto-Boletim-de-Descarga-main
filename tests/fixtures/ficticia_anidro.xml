@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe versao="4.00">
+<ide><nNF>100003</nNF><dhEmi>2026-10-13T12:22:44-03:00</dhEmi></ide>
+<emit><xNome>USINA ANIDRO EXEMPLO S.A.</xNome></emit>
+<det nItem="1"><prod><xProd>ETANOL ANIDRO COMBUSTIVEL</xProd><uCom>M3</uCom><qCom>49.9000</qCom><uTrib>LT</uTrib><qTrib>49900.0000</qTrib></prod></det>
+<transp><transporta><xNome>EMPRESA PROPRIA SA</xNome></transporta></transp>
+<infAdic><infCpl>Item 000010: Certificado N: 1, Lacre da amostra-testemunha N: 3000001 Lacres:/0001001/0001002/0001003/0001004 Remessa: 1 Temperatura do veiculo = 21,9 Temperatura de analise = 20,0 Massa Especifica = 0,7905 Capacidade Seta = 50000 Fator Reducao = 0,9980 Massa Esp.20C = 0,7905 Grau INPM = 99,6 Volume 20C Seta = 49900 Volume Faturado = 49900</infCpl><obsCont xCampo="TRANSP_PLACAS"><xTexto>ABC1D23/ABC4E56</xTexto></obsCont></infAdic>
+</infNFe></NFe></nfeProc>

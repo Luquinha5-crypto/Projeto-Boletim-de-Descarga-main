@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe versao="4.00">
+<ide><nNF>100002</nNF><dhEmi>2026-10-13T00:00:00-03:00</dhEmi></ide>
+<emit><xNome>USINA ALCOOL EXEMPLO S.A.</xNome></emit>
+<det nItem="1"><prod><xProd>ONU 1170 ETANOL (3) II ALCOOL ETILICO HIDRATADO CARBURANTE</xProd><uCom>M3</uCom><qCom>40.0000</qCom><uTrib>LT</uTrib><qTrib>40000.0000</qTrib></prod></det>
+<transp><transporta><xNome>TRANSPORTADORA EXEMPLO LTDA</xNome></transporta></transp>
+<infAdic><infCpl>INF. ADIC. Pedido 1, Placa Truck Cavalo ABC1D23, UF PR, Lacres E0000001, E0000002, E0000003, E0000004INF. VEIC.VEICULOFULANO DE TAL CPF12345678909 CNH1234567890 RG1.234.567 PLACA2ABC4E56PR PLACA3 CERTIFICADO 9 LACRE AMOSTRA E0009999</infCpl></infAdic>
+</infNFe></NFe></nfeProc>

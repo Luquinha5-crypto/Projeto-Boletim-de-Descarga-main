@@ -1,0 +1,5 @@
+amostras_reais/
+saida/
+assets/logo.jpeg
+*.real.json
+__pycache__/

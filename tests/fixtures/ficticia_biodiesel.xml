@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe versao="4.00">
+<ide><nNF>100001</nNF><dhEmi>2026-10-10T12:50:50-03:00</dhEmi></ide>
+<emit><xNome>USINA BIO EXEMPLO S.A.</xNome></emit>
+<det nItem="1"><prod><xProd>BIODIESEL B100</xProd><uCom>L</uCom><qCom>50000.0000</qCom><uTrib>L</uTrib><qTrib>50000.0000</qTrib></prod></det>
+<transp><transporta><xNome>TRANSPORTADORA EXEMPLO LTDA</xNome></transporta><veicTransp><placa>ABC1D23</placa><UF>SP</UF></veicTransp></transp>
+<infAdic><infCpl>*TEMPERATURA MEDIA DO(S) COMPARTIMENTO(S): 37 oC DENSIDADE MEDIA A 20oC :     0.878  FATOR DE CORRECAO A 20oC :    0.9871 .* Certificado:1 Lote:1*Lacre:100007-100006-100005-100004-100003-100002-100001-100000*LA:100010-100009-100008 Lacre das amostras: 200001/200002/200003 .*PEDIDO 1</infCpl></infAdic>
+</infNFe></NFe></nfeProc>
