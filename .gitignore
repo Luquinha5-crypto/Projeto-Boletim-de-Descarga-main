@@ -3,3 +3,5 @@ saida/
 assets/logo.jpeg
 *.real.json
 __pycache__/
+Notas/
+cavalos.txt

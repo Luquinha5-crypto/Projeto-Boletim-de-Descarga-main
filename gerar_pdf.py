@@ -1,209 +1,258 @@
-"""Desenha a Autorização de Descarga em PDF (A4 paisagem, 2 vias lado a lado).
+"""Desenha a Autorização de Descarga em PDF (A4 paisagem, 2 vias lado a lado), IGUAL ao formulário original.
 
-A geometria (largura das colunas, altura das linhas) é a da planilha original,
-só que escalada para caber na folha. Cada célula do formulário é uma linha da
-lista CELULAS: (linha_ini, col_ini, linha_fim, col_fim, texto|campo, estilo).
-Quando o texto é um campo (ex.: "{usina}"), ele é trocado pelo dado da Autorizacao.
+Como funciona
+  - layout_original.json guarda, célula por célula, o que o formulário do Excel tem: largura/altura,
+    células mescladas, bordas, fonte, alinhamento, rótulos e posição do logotipo
+    (gerado por tools/extrair_layout.py a partir do arquivo original).
+  - Aqui só ligamos os DADOS (Autorizacao) aos endereços de célula e desenhamos.
+  - A via da direita espelha a da esquerda, como as fórmulas (=B13) do original.
 """
+import json
+import re
 from pathlib import Path
 
 from reportlab.lib.pagesizes import A4, landscape
 from reportlab.lib.utils import simpleSplit
 from reportlab.pdfgen import canvas
 
-from calculos import MAX_LACRES, Autorizacao, fator_correcao
+from calculos import Autorizacao
+from volume import volume_20_exibido
 
-LOGO = Path(__file__).parent / "assets" / "logo.jpeg"
+AQUI = Path(__file__).parent
+LAYOUT = json.loads((AQUI / "layout_original.json").read_text(encoding="utf-8"))
+LOGO = AQUI / "assets" / "logo.jpeg"          # opcional: sem o arquivo, o PDF sai sem logotipo
+DECIMAL = ","                                  # vírgula = padrão brasileiro (o Excel em pt-BR imprime assim)
 
-# Larguras A:H em "caracteres do Excel" (iguais nas duas vias) e alturas das linhas 1..51 em pontos.
-def _pt(chars: float) -> float:
-    """Largura de coluna do Excel (em caracteres) -> pontos."""
-    return (chars * 7 + 5) * 0.75
-
-
-LARGURAS = [_pt(w) for w in (13.41, 10.28, 12.99, 10.41, 12.99, 9.99, 12.99, 9.99)]
-GAP = _pt(4.85) * 2  # colunas I:J
-ALTURAS = [12.75, 12.75, 12.75, 3, 3, 15.75, 8.25, 15.75, 8.25, 15.75, 13.5, 19.5, 19.5, 19.5, 19.5,
-           19.5, 19.5, 19.5, 19.5, 19.5, 19.5, 12.75, 13.5, 19.5, 16.5, 16.5, 16.5, 16.5, 16.5, 16.5,
-           16.5, 16.5, 18.75, 18.75, 18.95, 19.5, 19.5, 19.5, 12.75, 12.75, 12.75, 18.0, 13.5, 12.75,
-           13.5, 12.75, 12.75, 13.5, 12.75, 12.75, 13.5]
-N_LINHAS = 51
-LACRE_SLOTS = [(22, c) for c in range(1, 8)] + [(23, 0)] + [(23, c) for c in range(1, 8)]
-
-LINHA = "__________:__________"
-B, I, N = "bold", "italic", ""  # estilos de fonte
+COL_VIA2 = 10                                  # a via da direita começa na coluna K (índice 10)
+LARGURA_LINHA = {"hair": 0.3, "thin": 0.75, "medium": 1.5, "thick": 2.25}
+FONTES = {  # (família, negrito, itálico) -> fonte PDF padrão
+    "Times New Roman": ("Times-Roman", "Times-Bold", "Times-Italic", "Times-BoldItalic"),
+    "Arial": ("Helvetica", "Helvetica-Bold", "Helvetica-Oblique", "Helvetica-BoldOblique"),
+}
+# lacres: B22..H22, depois A23, depois B23..H23 (15 encaixes, como no formulário)
+LACRE_ENDERECOS = [f"{c}22" for c in "BCDEFGH"] + ["A23"] + [f"{c}23" for c in "BCDEFGH"]
 
 
-def _f(valor, formato: str = "{}") -> str:
-    """Formata um campo; se não veio da NF (None) sai em branco para preencher à mão."""
-    return "" if valor is None else formato.format(valor)
+# ------------------------------------------------------------------------------------------
+# dados -> endereços de célula da via esquerda
+# ------------------------------------------------------------------------------------------
+def _num(valor, casas=None):
+    """Número no padrão brasileiro. None -> '' (campo em branco para preencher à mão)."""
+    if valor is None:
+        return ""
+    texto = f"{valor:.{casas}f}" if casas is not None else f"{valor:g}"
+    return texto.replace(".", DECIMAL)
 
 
-def _celulas(a: Autorizacao, data_hora: str) -> list:
-    """(r1, c1, r2, c2, texto, estilo, alinhamento). Linhas 1-based, colunas 0-based (A=0 .. H=7)."""
-    carretas = (a.placas_carreta + ["", ""])[:2]
-    c = [
-        (6, 0, 6, 7, "RAIZEN COMBUSTIVEIS S/A", B, "center", 0),
-        (8, 0, 8, 7, "Autorização para Descarga de Auto Tanque no Pool de Londrina", B, "center", 0),
-        # cabeçalhos
-        (10, 0, 10, 3, "Preenchido pela Raizen", B, "center", 1),
-        (11, 0, 11, 3, "Dados do carregamento", B, "center", 1),
-        (10, 4, 10, 7, "Preenchido pelo Pool", B, "center", 1),
-        (11, 4, 11, 7, "Dados do recebimento", B, "center", 1),
-        # dados do carregamento (lado Raízen)
-        (12, 0, 12, 0, "Data:", B, "left", 0), (12, 1, 12, 3, data_hora, B, "center", 0),
-        (13, 0, 13, 0, "Usina:", B, "left", 0), (13, 1, 13, 3, a.usina or "", B, "center", 0),
-        (14, 0, 15, 0, "Produto:", B, "left", 0), (14, 1, 15, 3, a.produto or "", B, "center", 0),
-        (16, 0, 16, 1, "Nota fiscal (s)", B, "center", 0), (16, 2, 16, 3, "Data:", B, "center", 0),
-        (17, 0, 17, 1, a.nota_fiscal or "", B, "center", 0), (17, 2, 17, 3, a.data_nf or "", B, "center", 0),
-        (18, 0, 19, 1, "Transportador:", B, "left", 0), (18, 2, 19, 3, a.transportador or "", B, "center", 0),
-        (20, 0, 21, 0, "Placas:", B, "left", 0),
-        (20, 1, 20, 1, "Cavalo:", B, "center", 0), (20, 2, 20, 3, a.placa_cavalo or "", B, "center", 0),
-        (21, 1, 21, 1, "Carreta:", B, "center", 0),
-        (21, 2, 21, 2, carretas[0], B, "center", 0), (21, 3, 21, 3, carretas[1], B, "center", 0),
-        (22, 0, 22, 0, "LACRES:", B, "left", 0),
-        # lado Pool: campos para preencher à mão
-        (12, 4, 23, 7, "", N, "center", 0),
-        (13, 4, 13, 5, "Data da Descarga", B, "left", 0), (13, 6, 13, 7, LINHA, N, "center", 2),
-        (15, 4, 15, 5, "Hora da Chegada:", B, "left", 0), (15, 6, 15, 7, LINHA, N, "center", 2),
-        (17, 4, 17, 5, "Hora da entrada:", B, "left", 0), (17, 6, 17, 7, LINHA, N, "center", 2),
-        (19, 4, 19, 5, "Hora da Saída", B, "left", 0), (19, 6, 19, 7, LINHA, N, "center", 2),
-        # controle de qualidade
-        (24, 0, 24, 3, "", N, "center", 0),
-        (24, 4, 24, 7, "Controle de Qualidade Recebido", B, "center", 1),
-    ]
-    # lacres: células vazias para os 15 encaixes + valores
-    for i, (r, col) in enumerate(LACRE_SLOTS):
-        c.append((r, col, r, col, str(a.lacres[i]) if i < len(a.lacres) else "", B, "center", 0))
-    # análises: (linha, rótulo1, valor1, rótulo2, valor2, rótulo Pool 1, rótulo Pool 2)
-    analises = [
-        (25, "Temperatura Tanque", _f(a.temp_tanque, "{:.1f}"), "Temperatura amostra", _f(a.temp_amostra, "{:.1f}"),
-         "Temperatura amostra", "Fator de Correção"),
-        (27, "Densidade Ambiente", _f(a.dens_ambiente, "{:.4f}"), "Densidade A 20", _f(a.dens_20, "{:.4f}"),
-         "Densidade Ambiente", "Densidade 20"),
-        (29, "Teor Alcoólico", _f(a.teor_alcoolico, "{:.2f}"), "Acidez", _f(a.acidez, "{:.2f}"),
-         "Teor alcoólico", "Acidez"),
-        (31, "PH", _f(a.ph, "{:.2f}"), "Condutividade", _f(a.condutividade, "{:g}"), "PH", "Condutividade"),
-    ]
-    for r, l1, v1, l2, v2, p1, p2 in analises:
-        c += [(r, 0, r + 1, 0, l1, B, "center", 0), (r, 1, r + 1, 1, v1, B, "center", 0),
-              (r, 2, r + 1, 2, l2, B, "center", 0), (r, 3, r + 1, 3, v2, B, "center", 0),
-              (r, 4, r + 1, 4, p1, B, "center", 0), (r, 5, r + 1, 5, "", N, "center", 0),
-              (r, 6, r + 1, 6, p2, B, "center", 0), (r, 7, r + 1, 7, "", N, "center", 0)]
-    c += [
-        (33, 0, 34, 0, "Fator de Correção", B, "center", 0), (33, 1, 34, 1, _f(a.fator_nf, "{:.4f}"), B, "center", 0),
-        (33, 2, 34, 3, "", N, "center", 0),
-        (33, 4, 33, 7, "Temperatura do Autotanque (compartimentos)", B, "center", 1),
-        (34, 4, 34, 4, "", N, "center", 0), (34, 5, 34, 5, "", N, "center", 0),
-        (34, 6, 34, 6, "", N, "center", 0), (34, 7, 34, 7, "", N, "center", 0),
-        (35, 0, 35, 3, "", N, "center", 0),
-        (35, 4, 35, 5, "", N, "center", 0), (35, 6, 35, 6, "Média", B, "right", 0), (35, 7, 35, 7, "", N, "center", 0),
-        # volumes
-        (36, 0, 36, 3, "Volume Manifestado", B, "center", 1),
-        (37, 0, 37, 1, "Ambiente", B, "center", 0), (37, 2, 37, 3, "20º C", B, "center", 0),
-        (38, 0, 38, 1, _f(a.volume_ambiente, "{:,}").replace(",", "."), B, "center", 3),
-        (38, 2, 38, 3, _f(a.volume_20_nf, "{:,}").replace(",", "."), B, "center", 3),
-        (36, 4, 36, 7, "Volume Recebido", B, "center", 1),
-        (37, 4, 37, 4, "Ambiente", B, "center", 0), (37, 5, 37, 5, "S/F", B, "center", 0),
-        (37, 6, 37, 6, "20º", B, "center", 0), (37, 7, 37, 7, "S/F", B, "center", 0),
-        (38, 4, 38, 4, "", N, "center", 0), (38, 5, 38, 5, "", N, "center", 0),
-        (38, 6, 38, 6, "", N, "center", 0), (38, 7, 38, 7, "", N, "center", 0),
-        # rodapé
-        (39, 0, 42, 0, "Emitido por:", B + I, "center", 4), (39, 1, 42, 3, "", N, "center", 0),
-        (43, 0, 43, 3, "Observações =", B + I, "center", 4),
-        (44, 0, 44, 3, "", N, "center", 0),
-        (45, 0, 45, 0, "MOTORISTA:", B, "left", 0), (45, 1, 45, 3, a.motorista or "", B, "left", 0),
-        (46, 0, 46, 3, "", N, "center", 0),
-        (47, 0, 47, 0, "CPF:", B, "center", 0), (47, 1, 47, 3, a.cpf or "", B, "left", 0),
-        (48, 0, 51, 3, "", N, "center", 0),
-        (39, 4, 39, 7, "KIT METANOL", B, "center", 0),
-        (40, 4, 40, 5, "DENTRO", B + I, "left", 5), (40, 6, 40, 7, "FORA", B + I, "right", 5),
-        (41, 4, 44, 7, "Declaro que acompanhei a apuração dos volumes e estou de acôrdo com a variação "
-                       "de _____________ litros a 20° C.", B + I, "center", 6),
-        (45, 4, 45, 7, "Motorista", B + I, "center", 4),
-        (46, 4, 47, 7, "", N, "center", 0),
-        (48, 4, 48, 7, "Conferido / Analisado  por = Operador", B + I, "center", 4),
-        (49, 4, 50, 7, "", N, "center", 0),
-        (51, 4, 51, 7, "Liberado por = Supervisor de Operações", B + I, "center", 4),
-    ]
-    return c
+def _milhar(valor):
+    return "" if valor is None else f"{int(valor):,}".replace(",", ".")
 
 
-# fator de tamanho de fonte por "tipo" (última coluna das tuplas): 0 normal, 1 cabeçalho, 2 linha, 3 destaque,
-# 4 pequeno, 5 pequeno com caixinha, 6 texto corrido
-TAM = {0: 8, 1: 8.5, 2: 8, 3: 9.5, 4: 6.2, 5: 7.5, 6: 7}
+def valores_por_celula(a: Autorizacao, data_hora: str) -> dict:
+    carretas = (list(a.placas_carreta or []) + ["", ""])[:2]
+    v = {
+        "B12": data_hora, "B13": a.usina, "B14": a.produto, "A17": a.nota_fiscal, "C17": a.data_nf,
+        "C18": a.transportador, "C20": a.placa_cavalo, "C21": carretas[0], "D21": carretas[1],
+        "B25": _num(a.temp_tanque, 1), "D25": _num(a.temp_amostra, 1),
+        "B27": _num(a.dens_ambiente, 4), "D27": _num(a.dens_20, 4),
+        "B29": _num(a.teor_alcoolico, 2), "D29": _num(a.acidez, 2),
+        "B31": _num(a.ph, 2), "D31": _num(a.condutividade),
+        "B33": _num(a.fator_nf, 4),
+        "A38": _milhar(a.volume_ambiente), "C38": _milhar(volume_20_exibido(a)[0]),
+        "B45": a.motorista, "B47": a.cpf,
+    }
+    for i, endereco in enumerate(LACRE_ENDERECOS):
+        v[endereco] = str(a.lacres[i]) if i < len(a.lacres or []) else ""
+    return {k: ("" if x is None else str(x)) for k, x in v.items()}
+
+
+def _texto_da_celula(endereco: str, cel: dict, valores: dict, data_hora: str) -> str:
+    """Rótulo fixo, dado preenchido ou (via direita) espelho do dado da via esquerda."""
+    bruto = cel.get("v")
+    if endereco in valores:
+        return valores[endereco]
+    if isinstance(bruto, str) and bruto.startswith("="):
+        if bruto.upper() == "=NOW()":
+            return data_hora
+        m = re.fullmatch(r"=\+?([A-Z]+\d+)", bruto)
+        if m:
+            ref = m.group(1)
+            if ref in valores:
+                return valores[ref]
+            rotulo = LAYOUT["celulas"].get(ref, {}).get("v")   # ex.: =A45 -> "MOTORISTA:"
+            return rotulo if isinstance(rotulo, str) and not rotulo.startswith("=") else ""
+        return ""
+    return bruto or ""
+
+
+# ------------------------------------------------------------------------------------------
+# desenho
+# ------------------------------------------------------------------------------------------
+def _letras(indice: int) -> str:
+    return chr(65 + indice)                      # colunas A..R (18 colunas)
+
+
+def _texto_na_posicao(lin: int, col1: int, valores: dict, data_hora: str, mesclada_de: dict) -> str:
+    """Texto que aparece na célula (lin, col1 base 1), olhando a âncora se for mesclada."""
+    faixa = mesclada_de.get((lin, col1))
+    if faixa:
+        lin, col1 = faixa[0], faixa[1]
+    endereco = f"{_letras(col1 - 1)}{lin}"
+    cel = LAYOUT["celulas"].get(endereco)
+    return _texto_da_celula(endereco, cel, valores, data_hora).strip() if cel else ""
+
+
+
+def _letra_para_indice(letras: str) -> int:
+    n = 0
+    for ch in letras:
+        n = n * 26 + ord(ch) - 64
+    return n - 1
+
+
+def _fonte_pdf(nome: str, negrito: bool, italico: bool) -> str:
+    regular, bold, ital, bolditalic = FONTES.get(nome, FONTES["Arial"])
+    return bolditalic if negrito and italico else bold if negrito else ital if italico else regular
 
 
 def gerar_pdf(a: Autorizacao, caminho: str, vias: int = 2) -> None:
+    larg, alt = LAYOUT["larguras"], LAYOUT["alturas"]
+    colunas_usadas = len(larg) if vias == 2 else 8
     pag_w, pag_h = landscape(A4)
-    margem = 14
-    larg_forma = sum(LARGURAS)
-    larg_total = larg_forma * vias + GAP * (vias - 1)
-    sx = (pag_w - 2 * margem) / larg_total
-    sy = (pag_h - 2 * margem) / sum(ALTURAS[:N_LINHAS])
-    esc = min(sx, sy)
+    ml, mv = LAYOUT["pagina"]["margem_lateral"], LAYOUT["pagina"]["margem_vertical"]
 
-    xs = [0.0]
-    for w in LARGURAS:
-        xs.append(xs[-1] + w * esc)
-    ys = [0.0]
-    for h in ALTURAS[:N_LINHAS]:
-        ys.append(ys[-1] + h * esc)
-    largura_via = xs[-1]
-    gap = GAP * esc
-    x_inicio = (pag_w - (largura_via * vias + gap * (vias - 1))) / 2
-    y_topo = pag_h - margem - 2
+    X = [0.0]
+    for w in larg[:colunas_usadas]:
+        X.append(X[-1] + w)
+    Y = [0.0]
+    for h in alt:
+        Y.append(Y[-1] + h)
+    esc = min((pag_w - 2 * ml) / X[-1], (pag_h - 2 * mv) / Y[-1])      # cabe na folha, sem distorcer
+    x0 = (pag_w - X[-1] * esc) / 2                                      # centralizado, como no original
+    y0 = pag_h - (pag_h - Y[-1] * esc) / 2
 
-    c = canvas.Canvas(caminho, pagesize=landscape(A4))
-    c.setTitle(f"Autorização de Descarga - NF {a.nota_fiscal}")
+    def px(x): return x0 + x * esc
+    def py(y): return y0 - y * esc
+
     data_hora = a.emitido_em.strftime("%d/%m/%y %H:%M")
-    celulas = _celulas(a, data_hora)
+    valores = valores_por_celula(a, data_hora)
 
-    for v in range(vias):
-        x0 = x_inicio + v * (largura_via + gap)
-        for r1, c1, r2, c2, texto, estilo, alin, tipo in celulas:
-            x, xf = x0 + xs[c1], x0 + xs[c2 + 1]
-            yt, yb = y_topo - ys[r1 - 1], y_topo - ys[r2]
-            c.setLineWidth(0.6)
-            if not (r1 in (6, 8) and c1 == 0 and c2 == 7):  # títulos ficam sem moldura
-                c.rect(x, yb, xf - x, yt - yb, stroke=1, fill=0)
-            if not texto:
+    mesclada_de = {}                                                    # (lin, col) -> intervalo
+    for r1, c1, r2, c2 in LAYOUT["mescladas"]:
+        if c2 > colunas_usadas:
+            continue
+        for r in range(r1, r2 + 1):
+            for c in range(c1, c2 + 1):
+                mesclada_de[(r, c)] = (r1, c1, r2, c2)
+
+    pdf = canvas.Canvas(caminho, pagesize=landscape(A4))
+    pdf.setTitle(f"Boletim de Descarga - NF {a.nota_fiscal or ''}")
+    pdf.setLineCap(2)
+
+    # ---- 1) textos
+    for endereco, cel in LAYOUT["celulas"].items():
+        m = re.fullmatch(r"([A-Z]+)(\d+)", endereco)
+        c, r = _letra_para_indice(m.group(1)), int(m.group(2))
+        if c >= colunas_usadas:
+            continue
+        faixa = mesclada_de.get((r, c + 1))
+        if faixa and (faixa[0], faixa[1]) != (r, c + 1):
+            continue                                                    # só a célula-âncora escreve
+        r1, c1, r2, c2 = faixa if faixa else (r, c + 1, r, c + 1)
+        texto = _texto_da_celula(endereco, cel, valores, data_hora)
+        if not texto.strip():
+            continue
+        xa, xb = px(X[c1 - 1]), px(X[c2])
+        yt, yb = py(Y[r1 - 1]), py(Y[r2])
+        nome, tam, neg, ita = cel["fonte"]
+        fonte = _fonte_pdf(nome, neg, ita)
+        tam = tam * esc
+        folga = 2 * esc
+        h_al, v_al, quebra = cel["alin"]
+        numerico = endereco in valores and bool(re.fullmatch(r"[\d.,]+", texto))
+        h_al = "right" if (h_al in (None, "general") and numerico) else \
+            "center" if h_al in ("center", "justify", "distributed") else \
+            "right" if h_al == "right" else "left"
+        quebra = quebra or "\n" in texto
+        if h_al == "left" and not quebra:
+            # como no Excel, texto à esquerda "transborda" sobre as células vazias à direita
+            prox = c2 + 1
+            while prox <= colunas_usadas and not _texto_na_posicao(r1, prox, valores, data_hora, mesclada_de):
+                xb = px(X[prox])
+                prox += 1
+        largura_util = xb - xa - 2 * folga
+        palavras = [w for w in texto.replace("\n", " ").split() if w]
+        while tam > 4 and ((not quebra and pdf.stringWidth(texto, fonte, tam) > largura_util) or
+                           (quebra and palavras and max(pdf.stringWidth(w, fonte, tam) for w in palavras) > largura_util)):
+            tam -= 0.25                                                 # reduz só o necessário p/ caber
+        if quebra:
+            linhas = [ln for parte in texto.split("\n") for ln in simpleSplit(parte, fonte, tam, largura_util)]
+        else:
+            linhas = [texto]
+        pdf.setFont(fonte, tam)
+        passo = tam * 1.15
+        bloco = passo * len(linhas)
+        if v_al == "top":
+            y = yt - folga - tam * 0.85
+        elif v_al in ("center", "distributed", "justify"):
+            y = (yt + yb) / 2 + bloco / 2 - tam * 0.85
+        else:                                                           # bottom (padrão do Excel)
+            y = yb + folga + bloco - tam * 0.95
+        for ln in linhas:
+            if h_al == "center":
+                pdf.drawCentredString((xa + xb) / 2, y, ln)
+            elif h_al == "right":
+                pdf.drawRightString(xb - folga, y, ln)
+            else:
+                pdf.drawString(xa + folga, y, ln)
+            y -= passo
+
+    # ---- 2) bordas (por cima dos textos; arestas internas de células mescladas não são desenhadas)
+    for endereco, cel in LAYOUT["celulas"].items():
+        if not cel["borda"]:
+            continue
+        m = re.fullmatch(r"([A-Z]+)(\d+)", endereco)
+        c, r = _letra_para_indice(m.group(1)), int(m.group(2))
+        if c >= colunas_usadas:
+            continue
+        faixa = mesclada_de.get((r, c + 1))
+        xa, xb, yt, yb = px(X[c]), px(X[c + 1]), py(Y[r - 1]), py(Y[r])
+        for lado, estilo in cel["borda"].items():
+            if faixa:
+                r1, c1, r2, c2 = faixa
+                interna = ((lado == "l" and c + 1 > c1) or (lado == "r" and c + 1 < c2) or
+                           (lado == "t" and r > r1) or (lado == "b" and r < r2))
+                if interna:
+                    continue
+            pdf.setLineWidth(max(0.25, LARGURA_LINHA.get(estilo, 0.75) * esc))
+            if lado == "l":
+                pdf.line(xa, yb, xa, yt)
+            elif lado == "r":
+                pdf.line(xb, yb, xb, yt)
+            elif lado == "t":
+                pdf.line(xa, yt, xb, yt)
+            else:
+                pdf.line(xa, yb, xb, yb)
+
+    # ---- 3) logotipo (uma por via, na posição do original)
+    if LOGO.exists():
+        for img in LAYOUT["imagens"]:
+            if img["x"] >= X[-1]:
                 continue
-            fonte = "Helvetica" + ("-BoldOblique" if estilo == B + I else "-Bold" if estilo == B
-                                   else "-Oblique" if estilo == I else "")
-            tam = max(5.5, TAM[tipo] * esc / 0.78)
-            # reduz a fonte se uma palavra sozinha não couber na largura da célula
-            while tam > 5 and max(c.stringWidth(w, fonte, tam) for w in texto.split()) > xf - x - 4:
-                tam -= 0.3
-            c.setFont(fonte, tam)
-            linhas = simpleSplit(texto, fonte, tam, xf - x - 4)
-            alt_linha = tam * 1.15
-            total = alt_linha * len(linhas)
-            y = (yt + yb) / 2 + total / 2 - tam * 0.85
-            for ln in linhas:
-                if alin == "center":
-                    c.drawCentredString((x + xf) / 2, y, ln)
-                elif alin == "right":
-                    c.drawRightString(xf - 3, y, ln)
-                else:
-                    c.drawString(x + 3, y, ln)
-                y -= alt_linha
-        # caixinhas DENTRO/FORA
-        bx = 7.5 * esc / 0.78
-        yc = y_topo - (ys[39] + ys[40]) / 2 - bx / 2
-        c.rect(x0 + xs[4] + 38 * esc / 0.78, yc, bx * 1.8, bx, stroke=1, fill=0)
-        c.rect(x0 + xs[8] - 38 * esc / 0.78 - bx * 1.8, yc, bx * 1.8, bx, stroke=1, fill=0)
-        # logotipo centralizado no topo
-        if LOGO.exists():
-            lw = 88 * esc
-            lh = lw * 112 / 248
-            c.drawImage(str(LOGO), x0 + (largura_via - lw) / 2, y_topo - ys[5] + (ys[5] - lh) / 2 + 6 * esc,
-                        width=lw, height=lh, preserveAspectRatio=True, mask="auto")
-    # linha divisória pontilhada entre as vias (para recorte)
+            pdf.drawImage(str(LOGO), px(img["x"]), py(img["y"] + img["h"]), width=img["w"] * esc,
+                          height=img["h"] * esc, preserveAspectRatio=False, mask="auto")   # esticado como no original
+
+    # ---- 3b) caixinhas DENTRO / FORA
+    pdf.setLineWidth(max(0.25, 0.75 * esc))
+    for ret in LAYOUT.get("retangulos", []):
+        if ret["x"] < X[-1]:
+            pdf.rect(px(ret["x"]), py(ret["y"] + ret["h"]), ret["w"] * esc, ret["h"] * esc, stroke=1, fill=0)
+
+    # ---- 4) linha pontilhada de corte entre as duas vias
     if vias == 2:
-        xm = x_inicio + largura_via + gap / 2
-        c.setDash(2, 3)
-        c.setLineWidth(0.4)
-        c.line(xm, margem, xm, pag_h - margem)
-    c.showPage()
-    c.save()
+        xm = px((X[8] + X[COL_VIA2]) / 2)
+        pdf.setDash(2, 3)
+        pdf.setLineWidth(0.4)
+        pdf.line(xm, mv, xm, pag_h - mv)
+    pdf.showPage()
+    pdf.save()

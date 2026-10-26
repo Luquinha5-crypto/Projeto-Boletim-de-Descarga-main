@@ -1,0 +1,12855 @@
+{
+ "larguras": [
+  74.1525,
+  57.72,
+  71.9475,
+  58.4025,
+  71.9475,
+  56.197500000000005,
+  71.9475,
+  56.197500000000005,
+  29.2125,
+  29.2125,
+  71.9475,
+  56.197500000000005,
+  71.9475,
+  56.197500000000005,
+  71.9475,
+  56.197500000000005,
+  71.9475,
+  56.197500000000005
+ ],
+ "alturas": [
+  12.75,
+  12.75,
+  12.75,
+  3.0,
+  3.0,
+  15.75,
+  8.25,
+  15.75,
+  8.25,
+  15.75,
+  13.5,
+  19.5,
+  19.5,
+  19.5,
+  19.5,
+  19.5,
+  19.5,
+  19.5,
+  19.5,
+  19.5,
+  19.5,
+  12.75,
+  13.5,
+  19.5,
+  16.5,
+  16.5,
+  16.5,
+  16.5,
+  16.5,
+  16.5,
+  16.5,
+  16.5,
+  18.75,
+  18.75,
+  18.95,
+  19.5,
+  19.5,
+  19.5,
+  12.75,
+  12.75,
+  12.75,
+  18.0,
+  13.5,
+  12.75,
+  13.5,
+  12.75,
+  12.75,
+  13.5,
+  12.75,
+  12.75,
+  13.5
+ ],
+ "mescladas": [
+  [
+   13,
+   17,
+   13,
+   18
+  ],
+  [
+   25,
+   14,
+   26,
+   14
+  ],
+  [
+   29,
+   3,
+   30,
+   3
+  ],
+  [
+   31,
+   18,
+   32,
+   18
+  ],
+  [
+   6,
+   1,
+   6,
+   8
+  ],
+  [
+   29,
+   2,
+   30,
+   2
+  ],
+  [
+   46,
+   15,
+   47,
+   16
+  ],
+  [
+   25,
+   18,
+   26,
+   18
+  ],
+  [
+   27,
+   1,
+   28,
+   1
+  ],
+  [
+   27,
+   11,
+   28,
+   11
+  ],
+  [
+   24,
+   1,
+   24,
+   4
+  ],
+  [
+   24,
+   11,
+   24,
+   14
+  ],
+  [
+   24,
+   5,
+   24,
+   8
+  ],
+  [
+   16,
+   13,
+   16,
+   14
+  ],
+  [
+   31,
+   6,
+   32,
+   6
+  ],
+  [
+   27,
+   17,
+   28,
+   17
+  ],
+  [
+   14,
+   2,
+   15,
+   4
+  ],
+  [
+   33,
+   1,
+   34,
+   1
+  ],
+  [
+   14,
+   12,
+   15,
+   14
+  ],
+  [
+   18,
+   11,
+   19,
+   12
+  ],
+  [
+   27,
+   3,
+   28,
+   3
+  ],
+  [
+   8,
+   11,
+   8,
+   18
+  ],
+  [
+   51,
+   5,
+   51,
+   8
+  ],
+  [
+   20,
+   1,
+   21,
+   1
+  ],
+  [
+   39,
+   2,
+   42,
+   4
+  ],
+  [
+   17,
+   1,
+   17,
+   2
+  ],
+  [
+   27,
+   15,
+   28,
+   15
+  ],
+  [
+   17,
+   3,
+   17,
+   4
+  ],
+  [
+   10,
+   5,
+   10,
+   8
+  ],
+  [
+   31,
+   12,
+   32,
+   12
+  ],
+  [
+   17,
+   13,
+   17,
+   14
+  ],
+  [
+   25,
+   5,
+   26,
+   5
+  ],
+  [
+   17,
+   17,
+   17,
+   18
+  ],
+  [
+   13,
+   12,
+   13,
+   14
+  ],
+  [
+   25,
+   17,
+   26,
+   17
+  ],
+  [
+   25,
+   2,
+   26,
+   2
+  ],
+  [
+   37,
+   11,
+   37,
+   12
+  ],
+  [
+   39,
+   1,
+   42,
+   1
+  ],
+  [
+   29,
+   11,
+   30,
+   11
+  ],
+  [
+   25,
+   16,
+   26,
+   16
+  ],
+  [
+   36,
+   5,
+   36,
+   8
+  ],
+  [
+   27,
+   2,
+   28,
+   2
+  ],
+  [
+   45,
+   5,
+   45,
+   8
+  ],
+  [
+   27,
+   4,
+   28,
+   4
+  ],
+  [
+   49,
+   15,
+   50,
+   18
+  ],
+  [
+   11,
+   15,
+   11,
+   18
+  ],
+  [
+   29,
+   15,
+   30,
+   15
+  ],
+  [
+   33,
+   12,
+   34,
+   12
+  ],
+  [
+   37,
+   1,
+   37,
+   2
+  ],
+  [
+   31,
+   3,
+   32,
+   3
+  ],
+  [
+   29,
+   12,
+   30,
+   12
+  ],
+  [
+   11,
+   1,
+   11,
+   4
+  ],
+  [
+   31,
+   5,
+   32,
+   5
+  ],
+  [
+   29,
+   14,
+   30,
+   14
+  ],
+  [
+   41,
+   15,
+   44,
+   18
+  ],
+  [
+   31,
+   15,
+   32,
+   15
+  ],
+  [
+   27,
+   13,
+   28,
+   13
+  ],
+  [
+   31,
+   17,
+   32,
+   17
+  ],
+  [
+   27,
+   5,
+   28,
+   5
+  ],
+  [
+   48,
+   5,
+   48,
+   8
+  ],
+  [
+   45,
+   15,
+   45,
+   18
+  ],
+  [
+   15,
+   17,
+   15,
+   18
+  ],
+  [
+   31,
+   14,
+   32,
+   14
+  ],
+  [
+   25,
+   4,
+   26,
+   4
+  ],
+  [
+   25,
+   7,
+   26,
+   7
+  ],
+  [
+   17,
+   11,
+   17,
+   12
+  ],
+  [
+   27,
+   7,
+   28,
+   7
+  ],
+  [
+   43,
+   11,
+   43,
+   14
+  ],
+  [
+   12,
+   12,
+   12,
+   14
+  ],
+  [
+   20,
+   11,
+   21,
+   11
+  ],
+  [
+   31,
+   2,
+   32,
+   2
+  ],
+  [
+   16,
+   11,
+   16,
+   12
+  ],
+  [
+   29,
+   8,
+   30,
+   8
+  ],
+  [
+   13,
+   2,
+   13,
+   4
+  ],
+  [
+   18,
+   1,
+   19,
+   2
+  ],
+  [
+   29,
+   5,
+   30,
+   5
+  ],
+  [
+   10,
+   1,
+   10,
+   4
+  ],
+  [
+   10,
+   11,
+   10,
+   14
+  ],
+  [
+   29,
+   17,
+   30,
+   17
+  ],
+  [
+   31,
+   8,
+   32,
+   8
+  ],
+  [
+   27,
+   16,
+   28,
+   16
+  ],
+  [
+   20,
+   3,
+   20,
+   4
+  ],
+  [
+   27,
+   18,
+   28,
+   18
+  ],
+  [
+   18,
+   13,
+   19,
+   14
+  ],
+  [
+   25,
+   13,
+   26,
+   13
+  ],
+  [
+   25,
+   15,
+   26,
+   15
+  ],
+  [
+   13,
+   7,
+   13,
+   8
+  ],
+  [
+   31,
+   11,
+   32,
+   11
+  ],
+  [
+   25,
+   12,
+   26,
+   12
+  ],
+  [
+   14,
+   1,
+   15,
+   1
+  ],
+  [
+   36,
+   1,
+   36,
+   4
+  ],
+  [
+   39,
+   5,
+   39,
+   8
+  ],
+  [
+   39,
+   15,
+   39,
+   18
+  ],
+  [
+   36,
+   15,
+   36,
+   18
+  ],
+  [
+   15,
+   7,
+   15,
+   8
+  ],
+  [
+   37,
+   13,
+   37,
+   14
+  ],
+  [
+   11,
+   11,
+   11,
+   14
+  ],
+  [
+   33,
+   2,
+   34,
+   2
+  ],
+  [
+   8,
+   1,
+   8,
+   8
+  ],
+  [
+   29,
+   4,
+   30,
+   4
+  ],
+  [
+   29,
+   6,
+   30,
+   6
+  ],
+  [
+   38,
+   1,
+   38,
+   2
+  ],
+  [
+   38,
+   3,
+   38,
+   4
+  ],
+  [
+   29,
+   13,
+   30,
+   13
+  ],
+  [
+   38,
+   13,
+   38,
+   14
+  ],
+  [
+   31,
+   4,
+   32,
+   4
+  ],
+  [
+   31,
+   1,
+   32,
+   1
+  ],
+  [
+   12,
+   2,
+   12,
+   4
+  ],
+  [
+   6,
+   11,
+   6,
+   18
+  ],
+  [
+   47,
+   17,
+   47,
+   18
+  ],
+  [
+   51,
+   15,
+   51,
+   18
+  ],
+  [
+   25,
+   6,
+   26,
+   6
+  ],
+  [
+   33,
+   11,
+   34,
+   11
+  ],
+  [
+   46,
+   5,
+   47,
+   6
+  ],
+  [
+   48,
+   15,
+   48,
+   18
+  ],
+  [
+   43,
+   1,
+   43,
+   4
+  ],
+  [
+   17,
+   7,
+   17,
+   8
+  ],
+  [
+   31,
+   16,
+   32,
+   16
+  ],
+  [
+   16,
+   1,
+   16,
+   2
+  ],
+  [
+   16,
+   3,
+   16,
+   4
+  ],
+  [
+   20,
+   13,
+   20,
+   14
+  ],
+  [
+   25,
+   1,
+   26,
+   1
+  ],
+  [
+   31,
+   13,
+   32,
+   13
+  ],
+  [
+   25,
+   3,
+   26,
+   3
+  ],
+  [
+   19,
+   7,
+   19,
+   8
+  ],
+  [
+   19,
+   17,
+   19,
+   18
+  ],
+  [
+   10,
+   15,
+   10,
+   18
+  ],
+  [
+   33,
+   5,
+   33,
+   8
+  ],
+  [
+   24,
+   15,
+   24,
+   18
+  ],
+  [
+   49,
+   5,
+   50,
+   8
+  ],
+  [
+   33,
+   15,
+   33,
+   18
+  ],
+  [
+   29,
+   7,
+   30,
+   7
+  ],
+  [
+   14,
+   11,
+   15,
+   11
+  ],
+  [
+   27,
+   6,
+   28,
+   6
+  ],
+  [
+   36,
+   11,
+   36,
+   14
+  ],
+  [
+   27,
+   8,
+   28,
+   8
+  ],
+  [
+   18,
+   3,
+   19,
+   4
+  ],
+  [
+   39,
+   11,
+   42,
+   11
+  ],
+  [
+   29,
+   1,
+   30,
+   1
+  ],
+  [
+   27,
+   12,
+   28,
+   12
+  ],
+  [
+   27,
+   14,
+   28,
+   14
+  ],
+  [
+   47,
+   7,
+   47,
+   8
+  ],
+  [
+   38,
+   11,
+   38,
+   12
+  ],
+  [
+   39,
+   12,
+   42,
+   14
+  ],
+  [
+   25,
+   11,
+   26,
+   11
+  ],
+  [
+   37,
+   3,
+   37,
+   4
+  ],
+  [
+   41,
+   5,
+   44,
+   8
+  ],
+  [
+   31,
+   7,
+   32,
+   7
+  ],
+  [
+   29,
+   16,
+   30,
+   16
+  ],
+  [
+   11,
+   5,
+   11,
+   8
+  ],
+  [
+   25,
+   8,
+   26,
+   8
+  ],
+  [
+   29,
+   18,
+   30,
+   18
+  ]
+ ],
+ "celulas": {
+  "I1": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "I2": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "I3": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "I4": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "I5": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "A6": {
+   "v": "RAIZEN COMBUSTIVEIS S/A",
+   "fonte": [
+    "Times New Roman",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {}
+  },
+  "I6": {
+   "v": null,
+   "fonte": [
+    "Times New Roman",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K6": {
+   "v": "RAIZEN COMBUSTIVEIS S/A",
+   "fonte": [
+    "Times New Roman",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {}
+  },
+  "I7": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "A8": {
+   "v": "Autorização para Descarga de Auto Tanque no Pool de Londrina",
+   "fonte": [
+    "Times New Roman",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {}
+  },
+  "I8": {
+   "v": null,
+   "fonte": [
+    "Times New Roman",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K8": {
+   "v": "Autorização para Descarga de Auto Tanque no Pool de Londrina",
+   "fonte": [
+    "Times New Roman",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {}
+  },
+  "I9": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "A10": {
+   "v": "Preenchido pela Raizen",
+   "fonte": [
+    "Arial",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "B10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "C10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "D10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "E10": {
+   "v": "Preenchido pelo Pool",
+   "fonte": [
+    "Arial",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "F10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "G10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "H10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "I10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K10": {
+   "v": "Preenchido pela Raizen",
+   "fonte": [
+    "Arial",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "L10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "M10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "N10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "O10": {
+   "v": "Preenchido pelo Pool",
+   "fonte": [
+    "Arial",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "P10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "Q10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "R10": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "A11": {
+   "v": "Dados do carregamento",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "B11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "C11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "D11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "E11": {
+   "v": "Dados do recebimento",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "F11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "G11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "H11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "I11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K11": {
+   "v": "Dados do carregamento",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "L11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "M11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "N11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "O11": {
+   "v": "Dados do recebimento",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "P11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "Q11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "R11": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "A12": {
+   "v": "Data:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium"
+   }
+  },
+  "B12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "C12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "D12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "E12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium"
+   }
+  },
+  "F12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "G12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "H12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "I12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K12": {
+   "v": "Data:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium"
+   }
+  },
+  "L12": {
+   "v": "=NOW()",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "M12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "N12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "O12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium"
+   }
+  },
+  "P12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "Q12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "R12": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "A13": {
+   "v": "Usina:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "B13": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "top",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "D13": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "E13": {
+   "v": "Data da Descarga",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "G13": {
+   "v": "__________:__________",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "H13": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I13": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K13": {
+   "v": "Usina:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "L13": {
+   "v": "=B13",
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "N13": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "O13": {
+   "v": "Data da Descarga",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "Q13": {
+   "v": "__________:__________",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "R13": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A14": {
+   "v": "Produto:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "B14": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "D14": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "E14": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "H14": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I14": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K14": {
+   "v": "Produto:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "L14": {
+   "v": "=B14",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "N14": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "O14": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "R14": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A15": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "D15": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "E15": {
+   "v": "Hora da Chegada:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "G15": {
+   "v": "__________:__________",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "H15": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I15": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K15": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "N15": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "O15": {
+   "v": "Hora da Chegada:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "Q15": {
+   "v": "__________:__________",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "R15": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A16": {
+   "v": "Nota fiscal (s)",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "B16": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "C16": {
+   "v": "Data:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "D16": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "E16": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "H16": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I16": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K16": {
+   "v": "Nota fiscal (s)",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "L16": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "M16": {
+   "v": "Data:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "N16": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "O16": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "R16": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A17": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium"
+   }
+  },
+  "B17": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "C17": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "D17": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "E17": {
+   "v": "Hora da entrada:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "G17": {
+   "v": "__________:__________",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "H17": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I17": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K17": {
+   "v": "=A17",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium"
+   }
+  },
+  "L17": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "M17": {
+   "v": "=C17",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "N17": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "O17": {
+   "v": "Hora da entrada:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "Q17": {
+   "v": "__________:__________",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "R17": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A18": {
+   "v": "Transportador:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "C18": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "distributed",
+    true
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "D18": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "E18": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "H18": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I18": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K18": {
+   "v": "Transportador:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "M18": {
+   "v": "=C18",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "distributed",
+    true
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "N18": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "O18": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "R18": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A19": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "D19": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "E19": {
+   "v": "Hora da Saída",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "G19": {
+   "v": "__________:__________",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "H19": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I19": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K19": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "N19": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "O19": {
+   "v": "Hora da Saída",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "Q19": {
+   "v": "__________:__________",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "R19": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A20": {
+   "v": "Placas:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "B20": {
+   "v": "Cavalo:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "bottom",
+    false
+   ],
+   "borda": {}
+  },
+  "C20": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "D20": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "E20": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "H20": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I20": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K20": {
+   "v": "Placas:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "L20": {
+   "v": "Cavalo:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "bottom",
+    false
+   ],
+   "borda": {}
+  },
+  "M20": {
+   "v": "=C20",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "N20": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "O20": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "R20": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "B21": {
+   "v": "Carreta:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "C21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "D21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "E21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "F21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "G21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "H21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "I21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "L21": {
+   "v": "Carreta:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {}
+  },
+  "M21": {
+   "v": "=C21",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {}
+  },
+  "N21": {
+   "v": "=D21",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "O21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "R21": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A22": {
+   "v": "LACRES:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "B22": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "C22": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "D22": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "E22": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "F22": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "G22": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "H22": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "I22": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K22": {
+   "v": "Lacres",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium"
+   }
+  },
+  "L22": {
+   "v": "=B22",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "M22": {
+   "v": "=C22",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "N22": {
+   "v": "=D22",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "O22": {
+   "v": "=E22",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "P22": {
+   "v": "=F22",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "Q22": {
+   "v": "=G22",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "R22": {
+   "v": "=H22",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "A23": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "B23": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "C23": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "D23": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "E23": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "F23": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "G23": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "H23": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "I23": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K23": {
+   "v": "=A23",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "L23": {
+   "v": "=B23",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "M23": {
+   "v": "=C23",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "N23": {
+   "v": "=D23",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "O23": {
+   "v": "=E23",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "P23": {
+   "v": "=F23",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "Q23": {
+   "v": "=G23",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "R23": {
+   "v": "=H23",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "A24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "B24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "C24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "D24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "E24": {
+   "v": "Controle de Qualidade Recebido",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "F24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "G24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "H24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "I24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "L24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "M24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "N24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "O24": {
+   "v": "Controle de Qualidade Recebido",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium"
+   }
+  },
+  "R24": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A25": {
+   "v": "Temperatura Tanque",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "B25": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "distributed",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "C25": {
+   "v": "Temperatura amostra",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "D25": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "E25": {
+   "v": "Temperatura amostra",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "F25": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "distributed",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "G25": {
+   "v": "Fator de Correção",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "H25": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "I25": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K25": {
+   "v": "Temperatura Tanque",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "L25": {
+   "v": "=B25",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "distributed",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "M25": {
+   "v": "Temperatura amostra",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "N25": {
+   "v": "=D25",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "O25": {
+   "v": "Temperatura amostra",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "P25": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "distributed",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "Q25": {
+   "v": "Fator de Correção",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "R25": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "A26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "B26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "C26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "D26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "E26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "F26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "G26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "H26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "I26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "L26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "M26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "N26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "O26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "P26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "Q26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "R26": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "A27": {
+   "v": "Densidade Ambiente",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "B27": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "C27": {
+   "v": "Densidade A 20",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "D27": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "E27": {
+   "v": "Densidade Ambiente",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "F27": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "G27": {
+   "v": "Densidade 20",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "H27": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "I27": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K27": {
+   "v": "Densidade Ambiente",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "L27": {
+   "v": "=B27",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "M27": {
+   "v": "Densidade A 20",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "N27": {
+   "v": "=D27",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "O27": {
+   "v": "Densidade Ambiente",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "P27": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "Q27": {
+   "v": "Densidade 20",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "R27": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "A28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "B28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "C28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "D28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "E28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "F28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "G28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "H28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "I28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "L28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "M28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "N28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "O28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "P28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "Q28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "R28": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "A29": {
+   "v": "Teor\nAlcoólico",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "B29": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "C29": {
+   "v": "Acidez",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "D29": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "E29": {
+   "v": "Teor\nalcoólico",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "F29": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "G29": {
+   "v": "Acidez",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "H29": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "I29": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K29": {
+   "v": "Teor\nAlcoólico",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "L29": {
+   "v": "=B29",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "M29": {
+   "v": "Acidez",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "N29": {
+   "v": "=D29",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "O29": {
+   "v": "Teor\nalcoólico",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "P29": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "Q29": {
+   "v": "Acidez",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "R29": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "A30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "B30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "C30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "D30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "E30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "F30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "G30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "H30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "I30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "L30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "M30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "N30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "O30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "P30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "Q30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "R30": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "A31": {
+   "v": "P H",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "B31": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "C31": {
+   "v": "Condutividade",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "D31": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "E31": {
+   "v": "P H",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "F31": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "G31": {
+   "v": "Condutividade",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "H31": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "I31": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K31": {
+   "v": "P H",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "L31": {
+   "v": "=B31",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "M31": {
+   "v": "Condutividade",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "N31": {
+   "v": "=D31",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "O31": {
+   "v": "P H",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "P31": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "Q31": {
+   "v": "Condutividade",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "R31": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "A32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "B32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "C32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "D32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "E32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "medium"
+   }
+  },
+  "F32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "medium"
+   }
+  },
+  "G32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "medium"
+   }
+  },
+  "H32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "I32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "L32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "M32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "N32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "O32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "medium"
+   }
+  },
+  "P32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "medium"
+   }
+  },
+  "Q32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "b": "medium"
+   }
+  },
+  "R32": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "A33": {
+   "v": "Fator de Correção",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "B33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "C33": {
+   "v": null,
+   "fonte": [
+    "Agency FB",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin"
+   }
+  },
+  "D33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin"
+   }
+  },
+  "E33": {
+   "v": "Temperatura do Autotanque (compartimentos)",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "F33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "G33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "H33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "I33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K33": {
+   "v": "Fator de Correção",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "L33": {
+   "v": "=B33",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "M33": {
+   "v": null,
+   "fonte": [
+    "Agency FB",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "t": "thin"
+   }
+  },
+  "N33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin"
+   }
+  },
+  "O33": {
+   "v": "Temperatura do Autotanque (compartimentos)",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "P33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "Q33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "R33": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "A34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "B34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "C34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "D34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "E34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "F34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "G34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "H34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "I34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "L34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "M34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "N34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    11.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "O34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "P34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "Q34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "R34": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "A35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "B35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "C35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "D35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "E35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "F35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "G35": {
+   "v": "Média",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "H35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "I35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "L35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "M35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "N35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "O35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "P35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "Q35": {
+   "v": "Média",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "R35": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "A36": {
+   "v": "Volume Manifestado",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "B36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "C36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "D36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "E36": {
+   "v": "Volume Recebido",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "F36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "G36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "H36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "I36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K36": {
+   "v": "Volume Manifestado",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "L36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "M36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "N36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "O36": {
+   "v": "Volume Recebido",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "P36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "Q36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "R36": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium",
+    "b": "thin"
+   }
+  },
+  "A37": {
+   "v": "Ambiente",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "B37": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "C37": {
+   "v": "20º C",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "D37": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "E37": {
+   "v": "Ambiente",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "F37": {
+   "v": "S/F",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "G37": {
+   "v": "20º",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "H37": {
+   "v": "S/F",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "I37": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K37": {
+   "v": "Ambiente",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "L37": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "M37": {
+   "v": "20º C",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "N37": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "O37": {
+   "v": "Ambiente",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "P37": {
+   "v": "S/F",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "Q37": {
+   "v": "20º",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "R37": {
+   "v": "S/F",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "A38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "B38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "C38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "D38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "E38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin"
+   }
+  },
+  "F38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin"
+   }
+  },
+  "G38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin"
+   }
+  },
+  "H38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin"
+   }
+  },
+  "I38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K38": {
+   "v": "=A38",
+   "fonte": [
+    "Arial",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "L38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "M38": {
+   "v": "=C38",
+   "fonte": [
+    "Arial",
+    12.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "N38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "O38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin"
+   }
+  },
+  "P38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin"
+   }
+  },
+  "Q38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "thin",
+    "t": "thin"
+   }
+  },
+  "R38": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "medium",
+    "t": "thin"
+   }
+  },
+  "A39": {
+   "v": "Emitido por:",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "B39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    9.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "C39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "D39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "E39": {
+   "v": "KIT METANOL",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "F39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "G39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "H39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "I39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "justify",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K39": {
+   "v": "Emitido por:",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "L39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    9.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "M39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "N39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "O39": {
+   "v": "KIT METANOL",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "P39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "Q39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "R39": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "t": "thin",
+    "b": "thin"
+   }
+  },
+  "A40": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "E40": {
+   "v": "DENTRO",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "F40": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "G40": {
+   "v": "FORA",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "right",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "H40": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "I40": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "justify",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K40": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "O40": {
+   "v": "DENTRO",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "thin",
+    "b": "thin"
+   }
+  },
+  "P40": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "Q40": {
+   "v": "FORA",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "right",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "R40": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin",
+    "b": "thin"
+   }
+  },
+  "A41": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "E41": {
+   "v": "Declaro que acompanhei a apuração dos volumes e estou de acôrdo com a variaçao de _____________ litros a 20° C.",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "H41": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I41": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "justify",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K41": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "O41": {
+   "v": "Declaro que acompanhei a apuração dos volumes e estou de acôrdo com a variaçao de _____________ litros a 20° C.",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    true
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "R41": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "B42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "C42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "D42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "E42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "H42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    true
+   ],
+   "alin": [
+    "justify",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "medium"
+   }
+  },
+  "L42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "M42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "N42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "O42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "R42": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A43": {
+   "v": "Observações =",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "B43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "C43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "D43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "E43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "H43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K43": {
+   "v": "Observações =",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "L43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "M43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "N43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium",
+    "b": "medium"
+   }
+  },
+  "O43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "R43": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "hair"
+   }
+  },
+  "B44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "hair"
+   }
+  },
+  "C44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "hair"
+   }
+  },
+  "D44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "hair"
+   }
+  },
+  "E44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "thin"
+   }
+  },
+  "F44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "G44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "H44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "I44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "hair"
+   }
+  },
+  "L44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "hair"
+   }
+  },
+  "M44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "hair"
+   }
+  },
+  "N44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "b": "hair"
+   }
+  },
+  "O44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "thin"
+   }
+  },
+  "P44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "Q44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "R44": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "A45": {
+   "v": "MOTORISTA:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "B45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "C45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "D45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "E45": {
+   "v": "Motorista",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "F45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "G45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "H45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "I45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K45": {
+   "v": "=A45",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "L45": {
+   "v": "=B45",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "M45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "N45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "O45": {
+   "v": "Motorista",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "P45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "Q45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "medium"
+   }
+  },
+  "R45": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "medium"
+   }
+  },
+  "A46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "B46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "C46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "D46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "E46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "thin"
+   }
+  },
+  "H46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "L46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "M46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "N46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "O46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "center",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "thin"
+   }
+  },
+  "R46": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A47": {
+   "v": "CPF:",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "B47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {}
+  },
+  "C47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "D47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "E47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "thin"
+   }
+  },
+  "F47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "G47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "H47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "I47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K47": {
+   "v": "=A47",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "L47": {
+   "v": "=B47",
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "M47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "N47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "O47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "b": "thin"
+   }
+  },
+  "P47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "b": "thin"
+   }
+  },
+  "Q47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "R47": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "b": "thin"
+   }
+  },
+  "A48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "B48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "left",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "C48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "D48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "E48": {
+   "v": "Conferido / Analisado por = Operador",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "F48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "G48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "H48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "I48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "L48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "M48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "N48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "O48": {
+   "v": "Conferido / Analisado por = Operador",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "P48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "Q48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "R48": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "A49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "B49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "C49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "D49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "E49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "F49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "G49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "H49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "I49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "L49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "M49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "N49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "O49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "P49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "Q49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "medium"
+   }
+  },
+  "R49": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "medium"
+   }
+  },
+  "A50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "B50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "C50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "D50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "E50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "H50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "I50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "L50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "M50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "N50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "hair"
+   }
+  },
+  "O50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "l": "medium"
+   }
+  },
+  "R50": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium"
+   }
+  },
+  "A51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "medium"
+   }
+  },
+  "B51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "medium"
+   }
+  },
+  "C51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "medium"
+   }
+  },
+  "D51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "medium"
+   }
+  },
+  "E51": {
+   "v": "Liberado por = Supervisor de Operações",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "F51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "G51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "H51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "I51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "thin"
+   }
+  },
+  "K51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "t": "hair",
+    "b": "medium"
+   }
+  },
+  "L51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "medium"
+   }
+  },
+  "M51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "t": "hair",
+    "b": "medium"
+   }
+  },
+  "N51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    true,
+    false
+   ],
+   "alin": [
+    "general",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "hair",
+    "b": "medium"
+   }
+  },
+  "O51": {
+   "v": "Liberado por = Supervisor de Operações",
+   "fonte": [
+    "Arial",
+    8.0,
+    true,
+    true
+   ],
+   "alin": [
+    "center",
+    "bottom",
+    false
+   ],
+   "borda": {
+    "l": "medium",
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "P51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "Q51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "t": "thin",
+    "b": "medium"
+   }
+  },
+  "R51": {
+   "v": null,
+   "fonte": [
+    "Arial",
+    10.0,
+    false,
+    false
+   ],
+   "alin": [
+    null,
+    null,
+    false
+   ],
+   "borda": {
+    "r": "medium",
+    "t": "thin",
+    "b": "medium"
+   }
+  }
+ },
+ "imagens": [
+  {
+   "x": 773.2273818897638,
+   "y": 0.0,
+   "w": 128.40944881889763,
+   "h": 46.516535433070864
+  },
+  {
+   "x": 192.8457283464567,
+   "y": 0.0,
+   "w": 129.96850393700788,
+   "h": 45.722834645669295
+  }
+ ],
+ "retangulos": [
+  {
+   "x": 313.67131889763783,
+   "y": 623.4523622047244,
+   "w": 15.930708661417324,
+   "h": 10.488188976377952
+  },
+  {
+   "x": 468.63625984251973,
+   "y": 623.4523622047244,
+   "w": 15.930708661417324,
+   "h": 10.488188976377952
+  },
+  {
+   "x": 883.1456102362206,
+   "y": 623.4523622047244,
+   "w": 15.930708661417324,
+   "h": 10.488188976377952
+  },
+  {
+   "x": 1037.288503937008,
+   "y": 623.4523622047244,
+   "w": 15.930708661417324,
+   "h": 10.488188976377952
+  }
+ ],
+ "pagina": {
+  "margem_lateral": 14.150000000000016,
+  "margem_vertical": 5.0
+ }
+}

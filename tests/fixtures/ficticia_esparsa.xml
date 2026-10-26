@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe versao="4.00">
+<ide><nNF>100009</nNF><dhEmi>2026-10-14T10:00:00-03:00</dhEmi></ide>
+<emit><xNome>USINA FRACIONADA LTDA</xNome></emit>
+<det nItem="1"><prod><xProd>ALCOOL ETILICO HIDRATADO</xProd><uCom>M3</uCom><qCom>21.9150</qCom><uTrib>LT</uTrib><qTrib>21915.0000</qTrib></prod></det>
+<transp><transporta><xNome>TRANSPORTADORA TESTE</xNome></transporta></transp>
+<infAdic><infCpl>DOCUMENTO DE FATURAMENTO 0000000002 PLACA VEICULO: AAA-1B23 PR BBB4567 PR PEDIDO 0000000002</infCpl></infAdic>
+</infNFe></NFe></nfeProc>

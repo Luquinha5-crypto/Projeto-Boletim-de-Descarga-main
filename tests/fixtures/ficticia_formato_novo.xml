@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe versao="4.00">
+<ide><nNF>100004</nNF><dhEmi>2026-10-13T12:22:44-03:00</dhEmi></ide>
+<emit><xNome>USINA FORMATO NOVO S.A.</xNome></emit>
+<det nItem="1"><prod><xProd>ETANOL ANIDRO COMBUSTIVEL</xProd><uCom>M3</uCom><qCom>49.9000</qCom><uTrib>LT</uTrib><qTrib>49900.0000</qTrib></prod></det>
+<transp><transporta><xNome>EMPRESA PROPRIA SA</xNome></transporta></transp>
+<infAdic><infCpl>OBS: Temp. Tanque: 22,5 C - Dens. 20C: 0,8107 - Fat. Corr.: 0,9973 - Teor INPM 92,7 - Volume 20C: 49900 - Cap. 50000 L - Lacres: 100001; 100002; 100003 - Condutor: FULANO DE TAL</infCpl></infAdic>
+</infNFe></NFe></nfeProc>

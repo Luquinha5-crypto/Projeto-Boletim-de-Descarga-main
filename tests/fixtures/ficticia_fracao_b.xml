@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe versao="4.00">
+<ide><nNF>100007</nNF><dhEmi>2026-10-14T10:00:00-03:00</dhEmi></ide>
+<emit><xNome>USINA FRACIONADA LTDA</xNome></emit>
+<det nItem="1"><prod><xProd>ALCOOL ETILICO HIDRATADO</xProd><uCom>M3</uCom><qCom>21.9150</qCom><uTrib>LT</uTrib><qTrib>21915.0000</qTrib></prod></det>
+<transp><transporta><xNome>TRANSPORTADORA TESTE</xNome></transporta></transp>
+<infAdic><infCpl>DOCUMENTO DE FATURAMENTO 0000000001 NOME DO MOTORISTA: FULANO DE TAL CPF: 00000000000 CNH: 1234567890 PLACA VEICULO: AAA1B23 PR BBB4567 PR LACRES: 1000001, 1000002, 1000003, 1000004 CERTIFICADO DE QUALIDADE N:0000000001 M.ESP= 0,8077 PESOLIQ= 33900.000 SETAVEIC= 42.003,000 FATOR= 0.9979 V.FAT= 21.915 GRAUALC= 93.100 PH= 7,20 ACIDEZ= 6,38 CONDUTIV= 75,6 TEMP.ENS.= 22 M.ESP.T.E.= 0.80940 TEMP.VEIC.= 22 EMITIDA NOS TERMOS DA ALINEA A</infCpl></infAdic>
+</infNFe></NFe></nfeProc>

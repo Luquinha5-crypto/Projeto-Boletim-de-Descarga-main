@@ -1,0 +1,4 @@
+# Placas dos CAVALOS (tratores), uma por linha. Linhas com # sao comentarios.
+# Copie este arquivo para cavalos.txt (ele fica fora do Git) e coloque as placas reais da sua frota/clientes.
+AAA1B23   # exemplo ficticio
+CCC2D34   # exemplo ficticio

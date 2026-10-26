@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe versao="4.00">
+<ide><nNF>100011</nNF><dhEmi>2026-10-10T12:50:50-03:00</dhEmi></ide>
+<emit><xNome>USINA BIO EXEMPLO S.A.</xNome></emit>
+<det nItem="1"><prod><xProd>BIODIESEL B100</xProd><uCom>L</uCom><qCom>39000.0000</qCom><uTrib>L</uTrib><qTrib>39000.0000</qTrib></prod></det>
+<transp><transporta><xNome>TRANSPORTADORA EXEMPLO LTDA</xNome></transporta><veicTransp><placa>ABC1D23</placa><UF>SP</UF></veicTransp></transp>
+<infAdic><infCpl>*Declaro que os produtos perigosos estao adequadamente classificados*PEDIDO 2</infCpl></infAdic>
+</infNFe></NFe></nfeProc>
